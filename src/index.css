@@ -1,0 +1,30 @@
+@import "tailwindcss";
+
+@theme {
+  --font-serif: "Gowun Batang", Georgia, serif;
+  --font-sans: "Noto Sans KR", system-ui, sans-serif;
+  
+  --color-brand-green: #5A5A40;
+  --color-brand-green-light: #6E6E52;
+  --color-brand-sage: #8C8B7A;
+  --color-brand-cream: #F9F7F2;
+  --color-brand-gold: #B0A890;
+  --color-brand-charcoal: #4A4941;
+  --color-brand-warm: #E6E2D3;
+}
+
+/* Custom scrollbar to match the design */
+::-webkit-scrollbar {
+  width: 8px;
+}
+::-webkit-scrollbar-track {
+  background: #FAF9F5;
+}
+::-webkit-scrollbar-thumb {
+  background: #C2A278;
+  border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #8A9A86;
+}
+

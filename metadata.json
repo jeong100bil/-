@@ -1,0 +1,6 @@
+{
+  "name": "글램핑장 예약 시스템",
+  "description": "깔끔하고 감성적인 디자인의 실시간 예약 및 결제 관리 기능이 탑재된 프리미엄 글램핑장 홈페이지입니다.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
